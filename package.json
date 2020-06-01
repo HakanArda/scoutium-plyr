@@ -20,7 +20,7 @@
   ],
   "dependencies": {
     "plyr": "^3.5.10",
-    "vue": "git://github.com/HakanArda/plyr"
+    "vue": "git://github.com/HakanArda/plyr.git"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.1",
